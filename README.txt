@@ -43,3 +43,5 @@ sudo ./install.sh
 al ejecutar la segunda linea se creara el archivo OpenNIDevEnvironment, este archivo se debe ejecutar con el  siguientes lineas de comando
 source OpenNIDevEnvironment
 nota: para evitar tener que ejecutar OpenNIDevEnvironment,se abre el archivo OpenNIDevEnvironment y se copia las lineas de codigo en el achivo .bash_profile or .bashrc
+Installar libreria en python
+pip install openni
