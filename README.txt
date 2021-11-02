@@ -32,7 +32,9 @@ se debe colocar la linea despues del primer parrafo. ctr x para salir, pedirá c
 
 -installar openni
 Descarga drivers Orbbec astra.
+se puede encontrar una copia en los siguientes enlaces
 https://www.dropbox.com/sh/ou49febb83m476d/AADqCQuI3agPOdhyuihl0NHMa?dl=0
+https://github.com/cristiancaer/camaraOrbbec/blob/main/OpenNI-Linux-x64-2.3.zip
 Seleccionar el sistema operativo Linux, abrir la carpeta e instalar con las siguientes líneas de código
 unzip archivo.zip
 BUSCAR OpenNI-Linux-x64-2.3
