@@ -7,8 +7,7 @@ import time
 from ttictoc import tic, toc 
 
 # path to save images
-path="/home/estufab4/Desktop/flujo de bagazo/codigo/img_dataset/prueba/"
-paht="/home/estufab4/Desktop/flujo de bagazo/codigo/img_dataset/risaralda/septiembre/30/4/"
+path=" "
 
 
 # variables
